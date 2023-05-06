@@ -2,9 +2,6 @@
 
 
 
-## ***Source Code:***
-
-
 ## ***DataSets:***
 
 The Data sets used for this project are added to this folder. 
@@ -17,6 +14,14 @@ Data Sources:
 * CricSheet.org
 * IPL T20 Official website
 
+
+## ***Source Code:***
+
+Source Code is written in python.
+
+We used Google Collab for executing our project.
+
+
 ## ***PPT:***
 The powerpoint file is provided in this folder
 
@@ -26,4 +31,5 @@ All the visualizations have been uploaded to Dashboard.
 Dashboard was created using Google Data Studio tool.
 
 Link to dashboard: https://lookerstudio.google.com/s/ukmpA4Vhce0 
+
 
