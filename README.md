@@ -10,7 +10,7 @@ We used two data files. They are:
 * deliveries.csv - Contains ball by ball data from 2008 to 2019
 * matches.csv    - Contains match by match data from 2008 to 2019
 
-Data Sources:
+Data Sources: We have collected above datasets from the below websites.
 * CricSheet.org
 * IPL T20 Official website
 
@@ -19,7 +19,9 @@ Data Sources:
 
 Source Code is written in python.
 
-We used Google Collab for executing our project.
+We used Google Collab for executing our project. 
+
+
 
 
 ## ***PPT:***
