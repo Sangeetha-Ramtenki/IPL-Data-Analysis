@@ -1,15 +1,16 @@
 # IPL-Data-Analysis
 
 
+
 ## ***Source Code:***
 
 
 ## ***DataSets:***
 
-The Data Sets used for this project are added to this folder. 
+The Data sets used for this project are added to this folder. 
 
 We used two data files. They are: 
-* deliveries.csv - contains ball by ball data from 2008 to 2019
+* deliveries.csv - Contains ball by ball data from 2008 to 2019
 * matches.csv    - Contains match by match data from 2008 to 2019
 
 Data Sources:
