@@ -29,7 +29,7 @@ The powerpoint file is provided in this folder
 
 ## ***Results:***
 
-All the visualizations have been uploaded to Dashboard.
+All the visualizations have been uploaded to dashboard.
 Dashboard was created using Google Data Studio tool.
 
 Link to dashboard: https://lookerstudio.google.com/s/ukmpA4Vhce0 
